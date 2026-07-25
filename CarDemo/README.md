@@ -4,9 +4,11 @@
 
 * Student Name: Rohan Ahmed Qureshi
 * Seat Number: B25110006128
-* Course: Object-Oriented Programming (OOP)
+* Sec: B Morning
+* Course: Object-Oriented Programming (OOP) CS(352)
 * Department: Computer Science
 * University: University of Karachi
+* PROF: Humera tariq
 * Lab: Week 01 – Thinking in Objects
 
 ---
