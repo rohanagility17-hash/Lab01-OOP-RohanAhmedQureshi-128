@@ -1,0 +1,48 @@
+Car details saved successfully.
+Car details saved successfully.
+Trying to drive before starting the engine...
+Honda cannot move. Please start the engine first.
+Honda engine has started.
+Tesla engine has started.
+Honda is moving at 20 km/h.
+Honda accelerated to 50 km/h.
+Honda turned left.
+Honda Horn: Beep Beep!
+
+Tesla is moving at 20 km/h.
+Tesla turned right.
+
+Current Status of Cars:
+========== Honda ==========
+Color   : White
+Speed   : 50 km/h
+Gear    : 1
+Engine  : ON
+Fuel    : 94.0%
+============================
+========== Tesla ==========
+Color   : Red
+Speed   : 20 km/h
+Gear    : 1
+Engine  : ON
+Fuel    : 98.0%
+============================
+
+Honda reduced speed to 35 km/h.
+Honda engine has been turned off.
+
+Final Status:
+========== Honda ==========
+Color   : White
+Speed   : 0 km/h
+Gear    : 0
+Engine  : OFF
+Fuel    : 94.0%
+============================
+========== Tesla ==========
+Color   : Red
+Speed   : 20 km/h
+Gear    : 1
+Engine  : ON
+Fuel    : 98.0%
+============================
