@@ -31,13 +31,6 @@ week01_RohanQureshi_128/
 │   ├── Main.java
 │   ├── Car_UML.png
 │   └── SampleOutput.txt
-│
-└── CalculatorDemo/
-    ├── Calculator.java
-    ├── Main.java
-    ├── Calculator_UML.png
-    └── SampleOutput.txt
-```
 
 ---
 
@@ -56,23 +49,7 @@ The CarDemo project demonstrates the concept of classes and objects using a Car 
 
 ---
 
-## CalculatorDemo
-
-The CalculatorDemo project demonstrates basic mathematical operations using Java methods.
-
-### Features
-
-* Addition
-* Subtraction
-* Multiplication
-* Division
-* Modulus
-* Power
-* Average
-
----
-
-## Software Used
+Software Used
 
 * Java JDK 17 or later
 * Visual Studio Code
@@ -89,16 +66,7 @@ The CalculatorDemo project demonstrates basic mathematical operations using Java
 javac Car.java Main.java
 java Main
 ```
-
-### CalculatorDemo
-
-```bash
-javac Calculator.java Main.java
-java Main
-```
-
----
-
+
 ## Learning Outcomes
 
 * Understand classes and objects.
@@ -117,6 +85,6 @@ Seat Number: B25110006128
 
 University of Karachi
 
-Course:** Object-Oriented Programming (OOP)
+Course: Object-Oriented Programming (OOP)
 
 Lab 01 – Thinking in Objects
